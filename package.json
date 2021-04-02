@@ -20,7 +20,7 @@
     "version": "echo ${npm_package_version}"
   },
   "dependencies": {
-    "chalk": "^2.0.1",
+    "chalk": "^2.4.2",
     "chokidar": "^1.7.0",
     "cors": "^2.8.4",
     "express": "^4.15.3",
